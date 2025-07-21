@@ -1,4 +1,4 @@
-<h1 align="center">Arrr! ☠️ Ahoy there, matey! I be Nipun Pramodya Jayasinghe, sailin’ the seas o’ code ‘n’ adventure! 🏴‍☠️</h1>
+<h1 align="center">Arrr! ☠️ Ahoy there, matey! I be Nipun, sailin’ the seas o’ code ‘n’ adventure! 🏴‍☠️</h1>
 <h3 align="center">I'm an innovative thinker who loves tackling challenges that others believe can't be done easily. With a clear mind, I believe I can achieve anything.</h3>
 
 
