@@ -40,3 +40,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22202468&" alt="it22202468" />
 </p>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="A pixel-art koi swimming in a pond" />
+</p>
